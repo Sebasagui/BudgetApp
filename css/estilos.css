@@ -169,7 +169,7 @@ body {
 .agregar_btn:focus { outline: none; }
 
 .contenedor {
-    width: 860px;
+    width: 60%;
     margin: 60px auto;
 }
 
@@ -177,11 +177,15 @@ body {
     float: left;
     width: 370px;
     margin-right: 70px;
+    margin: auto;
+    text-align: center;
 }
 
 .egreso {
-    float: left;
+    float: right;
     width: 370px;
+    margin:auto;
+    text-align: center;
 }
 
 h2 {
